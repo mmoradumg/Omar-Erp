@@ -1,0 +1,17 @@
+{
+  "name": "Omar ERP | United Murad Group",
+  "short_name": "Omar ERP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1734",
+  "theme_color": "#0a1734",
+  "icons": [
+    {
+      "src": "assets/icon.webp",
+      "sizes": "any",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
